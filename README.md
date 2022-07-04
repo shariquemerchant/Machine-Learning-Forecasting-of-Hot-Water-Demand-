@@ -1,1 +1,2 @@
 # Time-Series-Forecasting-of-Hot-Water-Demand-
+The objective of this project is to forecast the volume of hot water drawn from a geyser using the sensor measurements as the underlying data. Creating a robust model capable of accurately forecasting the demand for hot water can be used to save electricity by drawing power during off-peak hours while ensuring hot water is available when needed. Improved accuracy of estimations by 88% when evaluating on the validation dataset using a hyperparameter tuned XGBoost model
